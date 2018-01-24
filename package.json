@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "msnodesqlv8": "^0.4.9",
+    "mssql": "^4.1.0"
+  },
+  "name": "msnodesqlv8-bulk-insert-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
